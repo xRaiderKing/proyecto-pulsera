@@ -1,0 +1,11 @@
+{
+    "/mapbox": {
+      "target": "https://api.mapbox.com",
+      "secure": true,
+      "changeOrigin": true,
+      "pathRewrite": {
+        "^/mapbox": ""
+      }
+    }
+  }
+  
